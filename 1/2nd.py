@@ -47,7 +47,7 @@ class trangle35(Scene):
 
         VGroup(text[0],text[1],text[2]).scale(0.5)
 
-        VGroup(line2,line1,line3).flip(UP)
+  
 
         
         
